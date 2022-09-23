@@ -2,10 +2,9 @@
 
 A new Flutter project.
 
-Abdullah Elsayed Soliman.
-Abdelrahman Mohamed Shalaby.
-
 ## Getting Started
+- Abdullah Elsayed Soliman.
+- Abdelrahman Mohamed Shalaby.
 
 This project is a starting point for a Flutter application.
 
